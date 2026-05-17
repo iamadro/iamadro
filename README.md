@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on** RL agents, computer vision projects, and embedded AI systems like autonomous drones.  <br>👯 **I’m looking to collaborate on** innovative AI/ML projects, especially in reinforcement learning or applied computer vision.  <br>🤝 **I’m looking for help with** optimizing deep learning models for edge devices and real-time deployment.  <br>🌱 **I’m currently learning** advanced reinforcement learning techniques and on-device AI (TinyML).  <br>💬 **Ask me about** Python, OpenCV, RL algorithms, or hacking together AI-powered hardware projects!  <br>⚡ **Fun fact:** I am training an RL agent to play Mega Tic-Tac-Toe—turns out, it’s ruthless even against its own creator. 😅  
+🔭 **I’m currently working on** RL agents, computer vision projects, and embedded AI systems like autonomous drones.  <br>👯 **I’m looking to collaborate on** innovative AI/ML projects, especially in reinforcement learning or applied computer vision.  <br>🤝 **I’m looking for help with** optimizing deep learning models for edge devices and real-time deployment.  <br>🌱 **I’m currently learning** advanced reinforcement learning techniques and on-device AI (TinyML).  <br>💬 **Ask me about** Python, OpenCV, RL algorithms, or hacking together AI-powered hardware projects!
 
 
 # 💻 Tech Stack:
